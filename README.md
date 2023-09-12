@@ -12,6 +12,6 @@ The set of non linear differential equations can be solved with your prefered nu
 
 ## (Not) funfact
 
-The initial paper was published with some unit errors (kCal and kJ, the classical one) that change a bit the paper conclusions so the paper comes with an Erratum explaining this. The Journal of CVD in which the paper was published was closed after this issue for reorganization and became the more coveted Advanced Materials.
+The initial paper was published with some unit errors (kCal and kJ, the classical one) that change a bit the paper conclusions so the paper comes with an Erratum explaining this. The quite specialized Journal of CVD in which the paper was published was discontinued after this issue and became the more broad and coveted Advanced Materials.
 
 
