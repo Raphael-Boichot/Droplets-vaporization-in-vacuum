@@ -10,7 +10,7 @@ The repo contains the Matlab codes and the theory that explains what happens whe
 
 The set of non linear differential equations can be solved with your prefered numerical method but Runge-Kutta derived ones do the job with just some limited instabilities at the transition between the two regimes. The main parameter to explain the vaporization time is (of course) the ambient temperature, knowing that the limited step is the pseudo-equilibrium vaporization. This was more or less empirically known by people using Direct Liquid Injection systems in MOCVD.
 
-##(Not) funfact
+## (Not) funfact
 
 The initial paper was published with some unit errors (kCal and kJ, the classical one) that change a bit the paper conclusions so the paper comes with an Erratum explaining this. The Journal of CVD in which the paper was published was closed after this issue for reorganization and became the more coveted Advanced Materials.
 
