@@ -10,7 +10,7 @@ The code is of course lagrangian and particles are considered as isolated, even 
 
 ![Flash_Vaporization_Steps](Documentation/Flash_Vaporization.png)
 
-The set of non linear differential equations can be solved with your prefered numerical method but Runge-Kutta derived ones do the job with just some limited instabilities at the transition between the two regimes. The main parameter to explain the vaporization time is (of course) the ambient temperature, knowing that the limited step is the pseudo-equilibrium vaporization. This was more or less empirically known by people using Direct Liquid Injection systems in MOCVD.
+The set of non linear differential equations can be solved with your prefered numerical method but Runge-Kutta derived ones do the job with just some minor instabilities at the transition between the two regimes that do not change the overall results. The main parameter to explain the vaporization time is (of course) the ambient radiating temperature, knowing that the limited step is the pseudo-equilibrium vaporization. This was more or less empirically known by people using Direct Liquid Injection systems in MOCVD but to my knowledge they never document any calculus before this study.
 
 ## (Not) funfact
 
